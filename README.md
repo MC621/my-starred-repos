@@ -132,7 +132,6 @@ A curated collection of my GitHub starred repositories, organized by category.
 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 74k | 中国教材 PDF 合集 |
 | [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) | 21k | 10000+ Telegram 群合集 |
 | [foru17/neko-master](https://github.com/foru17/neko-master) | 1k | 网络流量可视化仪表盘 |
-| [vanyasem/hackintosh-xiaomi-air-7200U](https://github.com/vanyasem/hackintosh-xiaomi-air-7200U) | 14 | 小米笔记本黑苹果配置 |
 | [appsail/Gemini-in-Chrome](https://github.com/appsail/Gemini-in-Chrome) | 429 | Chrome Gemini 集成 |
 | [wjszxli/AiAllSupport](https://github.com/wjszxli/AiAllSupport) | 213 | 浏览器 AI 全支持扩展 |
 
