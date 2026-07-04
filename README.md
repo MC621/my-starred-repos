@@ -1,11 +1,7 @@
 # ⭐ My Starred Repos
-
 A curated collection of my GitHub starred repositories, organized by category.
-
-> Last updated: 2026-06-27 | Total: 78 repos
-
+> Last updated: 2026-07-04 | Total: 82 repos
 ---
-
 ## 🤖 AI Agent / AI Framework
 
 | Repo | Stars | Description |
@@ -24,34 +20,35 @@ A curated collection of my GitHub starred repositories, organized by category.
 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 20k | JavaScript in-page GUI agent |
 | [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) | 5k | Agent Swarm Intelligence |
 | [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) | 7k | Desktop GUI for OpenClaw AI agent |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 50k | AI agent 多平台互联网接入 CLI |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 38k | Browser automation CLI for AI agents |
 | [mengjian-github/xiaomo-starter-kit](https://github.com/mengjian-github/xiaomo-starter-kit) | 365 | OpenClaw 中文 AI 助手模板 |
-
 ## 🎬 AI Video / Creative Tools
 
 | Repo | Stars | Description |
 |------|-------|-------------|
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 93k | AI 一键生成高清短视频 |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 23k | Open-source agentic video production system |
-| [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 23k | AI 全自动短视频引擎 |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 33k | Open-source agentic video production system |
+| [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) | 2k | Seedance 2.0 四模态 AI 电影制作流水线 |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 61k | 开源 CapCut 替代品 |
+| [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | 24k | AI 全自动短视频引擎 |
 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 5k | AI 智能视频剪辑与高光提取 |
 | [cporter202/automate-faceless-content](https://github.com/cporter202/automate-faceless-content) | 2k | Automate faceless video content |
 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 12k | 10,000+ AI image generation prompts |
-
 ## 📈 Quantitative Trading / Finance
 
 | Repo | Stars | Description |
 |------|-------|-------------|
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 50k | LLM 驱动多市场股票智能分析系统 |
 | [microsoft/qlib](https://github.com/microsoft/qlib) | 45k | AI-oriented quant investment platform |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 18k | Personal Trading Agent — 金融研究代理 |
 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 31k | Foundation Model for Financial Markets |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 88k | Multi-Agents LLM Financial Trading |
-| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 29k | TradingAgents 中文增强版 |
+
 | [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) | 8k | AI quantitative trading platform |
 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 13k | Open-source stock market platform |
 | [Polymarket/agents](https://github.com/Polymarket/agents) | 3k | Trade autonomously on Polymarket |
 | [Jon-Becker/prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis) | 3k | Prediction market data analysis |
 | [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | 3k | TradingView MCP server |
-
 ## 🔐 VPN / Proxy Tools
 
 | Repo | Stars | Description |
@@ -63,7 +60,6 @@ A curated collection of my GitHub starred repositories, organized by category.
 | [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) | 3k | x-ui 精简修改版 |
 | [clown-coding/vpn](https://github.com/clown-coding/vpn) | 5k | 快速搭建 VPN |
 | [baoweise-bot/aimili-vpngate](https://github.com/baoweise-bot/aimili-vpngate) | 1k | VPN Gate Linux 代理工具 |
-
 ## 📰 News / Information Aggregation
 
 | Repo | Stars | Description |
@@ -71,7 +67,6 @@ A curated collection of my GitHub starred repositories, organized by category.
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 60k | Real-time global intelligence dashboard |
 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 59k | AI 舆情趋势监控 |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 7k | AI-powered news radar |
-
 ## 🛠 Development Tools
 
 | Repo | Stars | Description |
@@ -80,7 +75,13 @@ A curated collection of my GitHub starred repositories, organized by category.
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 31k | Headless browser for AI and automation |
 | [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) | 2k | 企业微信 CLI 工具 |
 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 26k | PDF Parser for AI-ready data |
+| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 30k | AI 订阅统一中转服务 |
+## 🍎 Apple Ecosystem / iOS
 
+| Repo | Stars | Description |
+|------|-------|-------------|
+| [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) | 19k | macOS 音频环回驱动，零延迟音频路由 |
+| [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) | 4k | iOS/iPadOS 16.0-26.1 终极自定义工具 |
 ## 📖 Learning / Awesome Lists
 
 | Repo | Stars | Description |
@@ -94,6 +95,8 @@ A curated collection of my GitHub starred repositories, organized by category.
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 183k | Python 100天从新手到大师 |
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 115k | 100+ AI Agent & RAG apps |
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 35k | 人人都能用英语 |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77k | 本地运行 LLM，开源可商用 |
+| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 33k | AI 驱动的 draw.io 图表应用 |
 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 16k | 程序员 AI 资源大全 |
 | [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 14k | Vibe Coding 从入门到精通 |
 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 21k | Vibe Coding 中文教程 |
@@ -102,28 +105,24 @@ A curated collection of my GitHub starred repositories, organized by category.
 | [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) | 2k | Codex 实践指南 |
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 182k | CLAUDE.md from Andrej Karpathy |
 | [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | 9k | Public APIs for developers |
-
 ## 🌐 Web Frameworks
 
 | Repo | Stars | Description |
 |------|-------|-------------|
 | [vuejs/vue](https://github.com/vuejs/vue) | 209k | Vue 2 framework |
 | [react/react](https://github.com/react/react) | 246k | React - web and native UI |
-
 ## 🏢 Enterprise / Business
 
 | Repo | Stars | Description |
 |------|-------|-------------|
 | [frappe/erpnext](https://github.com/frappe/erpnext) | 36k | Free and open source ERP |
 | [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 16k | 《一人企业方法论》第二版 |
-
 ## 🎧 AI Audio / Speech
 
 | Repo | Stars | Description |
 |------|-------|-------------|
 | [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) | 3k | Open-source speech and sound generation |
 | [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) | 7k | Language models on your phone |
-
 ## 🔧 Misc / Other
 
 | Repo | Stars | Description |
@@ -134,16 +133,11 @@ A curated collection of my GitHub starred repositories, organized by category.
 | [foru17/neko-master](https://github.com/foru17/neko-master) | 1k | 网络流量可视化仪表盘 |
 | [appsail/Gemini-in-Chrome](https://github.com/appsail/Gemini-in-Chrome) | 429 | Chrome Gemini 集成 |
 | [wjszxli/AiAllSupport](https://github.com/wjszxli/AiAllSupport) | 213 | 浏览器 AI 全支持扩展 |
-
 ---
-
 ## 📊 Statistics
-
 - **Total starred repos:** 78
 - **Most starred:** codecrafters-io/build-your-own-x (520k)
 - **Categories:** 11
 - **Largest category:** AI Agent (15 repos)
-
 ## License
-
 This is a personal curated list. Each repository has its own license — please check individual repos.
