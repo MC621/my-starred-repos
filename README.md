@@ -1,143 +1,104 @@
 # ⭐ My Starred Repos
+
 A curated collection of my GitHub starred repositories, organized by category.
-> Last updated: 2026-07-04 | Total: 82 repos
+
+> Last updated: 2026-07-20 | Total: 93 repos
+
 ---
+
 ## 🤖 AI Agent / AI Framework
 
 | Repo | Stars | Description |
 |------|-------|-------------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 380k | Your own personal AI assistant |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 203k | The agent that grows with you |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 116k | A complete AI agency at your fingertips |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 74k | Open-source long-horizon SuperAgent harness |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 88k | Multi-Agents LLM Financial Trading Framework |
-| [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | 78k | Self-hosted AI workspace |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 50k | 5,400+ OpenClaw skills |
-| [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | 10k | MiMo Code: Models and Agents Co-Evolve |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 18k | Open Multi-Agent Interactive Classroom |
-| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 29k | TradingAgents 中文增强版 |
-| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 15k | 266 个即插即用 AI 专家角色（中文） |
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 20k | JavaScript in-page GUI agent |
-| [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) | 5k | Agent Swarm Intelligence |
-| [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) | 7k | Desktop GUI for OpenClaw AI agent |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 50k | AI agent 多平台互联网接入 CLI |
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 38k | Browser automation CLI for AI agents |
-| [mengjian-github/xiaomo-starter-kit](https://github.com/mengjian-github/xiaomo-starter-kit) | 365 | OpenClaw 中文 AI 助手模板 |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 392,510 | :books: Freely available programming books |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 383,503 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 217,322 | The agent that grows with you |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 194,428 | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 186,907 | DigitalPlat FreeDomain: Free Domain For Everyone |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 166,033 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 134,075 | A complete AI agency at your fingertips - From frontend wizards to Reddit commun |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 124,627 | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 93,706 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | 83,283 | Self-hosted AI workspace. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 77,402 | An open-source long-horizon SuperAgent harness that researches, codes, and creat |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77,393 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial  |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 62,058 | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 60,696 | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS,  |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 58,299 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 57,929 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stoc |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 52,458 | 12 Weeks, 24 Lessons, AI for All! |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 51,368 | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize |
+| [microsoft/qlib](https://github.com/microsoft/qlib) | 46,415 | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to emp |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 38,785 | Browser automation CLI for AI agents |
+| ... | ... | *还有 38 个仓库* |
+
 ## 🎬 AI Video / Creative Tools
 
 | Repo | Stars | Description |
 |------|-------|-------------|
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 93k | AI 一键生成高清短视频 |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 33k | Open-source agentic video production system |
-| [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) | 2k | Seedance 2.0 四模态 AI 电影制作流水线 |
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 61k | 开源 CapCut 替代品 |
-| [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | 24k | AI 全自动短视频引擎 |
-| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 5k | AI 智能视频剪辑与高光提取 |
-| [cporter202/automate-faceless-content](https://github.com/cporter202/automate-faceless-content) | 2k | Automate faceless video content |
-| [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 12k | 10,000+ AI image generation prompts |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 98,185 | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 40,194 | World's first open-source, agentic video production system. 12 pipelines, 52 too |
+| [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | 25,752 | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine |
+| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 6,143 | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
+| [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) | 4,806 | Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0 |
+
 ## 📈 Quantitative Trading / Finance
 
 | Repo | Stars | Description |
 |------|-------|-------------|
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 50k | LLM 驱动多市场股票智能分析系统 |
-| [microsoft/qlib](https://github.com/microsoft/qlib) | 45k | AI-oriented quant investment platform |
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 18k | Personal Trading Agent — 金融研究代理 |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 31k | Foundation Model for Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 32,256 | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) | 8k | AI quantitative trading platform |
-| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 13k | Open-source stock market platform |
-| [Polymarket/agents](https://github.com/Polymarket/agents) | 3k | Trade autonomously on Polymarket |
-| [Jon-Becker/prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis) | 3k | Prediction market data analysis |
-| [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | 3k | TradingView MCP server |
-## 🔐 VPN / Proxy Tools
+## 🕷️ Web Scraping / Data
 
 | Repo | Stars | Description |
 |------|-------|-------------|
-| [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | 58k | Android V2Ray client |
-| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 41k | Xray panel supporting multi-protocol |
-| [KaringX/clashmi](https://github.com/KaringX/clashmi) | 8k | Clash Mihomo for all platforms |
-| [yonggekkk/argosbx](https://github.com/yonggekkk/argosbx) | 5k | ArgoSBX 一键代理脚本 |
-| [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) | 3k | x-ui 精简修改版 |
-| [clown-coding/vpn](https://github.com/clown-coding/vpn) | 5k | 快速搭建 VPN |
-| [baoweise-bot/aimili-vpngate](https://github.com/baoweise-bot/aimili-vpngate) | 1k | VPN Gate Linux 代理工具 |
-## 📰 News / Information Aggregation
+| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196,278 | 📝 Algorithms and data structures implemented in JavaScript with explanations and |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 75,869 | 所有小初高、大学PDF教材。 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 70,202 | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ |
+| [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | 27,995 | 🔥 Clone and recreate any website as a modern React app in seconds |
+| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | 9,243 | A collaborative list of public APIs for developers |
+| [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | 2,910 | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF） |
+
+## 🔒 VPN / Proxy
 
 | Repo | Stars | Description |
 |------|-------|-------------|
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 60k | Real-time global intelligence dashboard |
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 59k | AI 舆情趋势监控 |
-| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 7k | AI-powered news radar |
-## 🛠 Development Tools
+| [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | 59,800 | A V2Ray client for Android, support Xray core and v2fly core |
+| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 43,282 | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit  |
+| [KaringX/clashmi](https://github.com/KaringX/clashmi) | 8,419 | Clash Mihomo for iOS/MacOS/Android/Windows/Linux |
+| [clown-coding/vpn](https://github.com/clown-coding/vpn) | 5,503 | 快速搭建一个自己的VPN翻墙科学上网 |
+| [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) | 3,946 | x-ui精简修改版脚本，支持Hysteria2、Xhttp传输协议、ENC加密、MLDSA65加密，集成argo固定临时双隧道（可共存）、Psiphon赛风VP |
+
+## 🛠️ Developer Tools
 
 | Repo | Stars | Description |
 |------|-------|-------------|
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 66k | Adaptive web scraping framework |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 31k | Headless browser for AI and automation |
-| [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) | 2k | 企业微信 CLI 工具 |
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 26k | PDF Parser for AI-ready data |
-| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 30k | AI 订阅统一中转服务 |
-## 🍎 Apple Ecosystem / iOS
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 529,012 | Master programming by recreating your favorite technologies from scratch. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 452,102 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, |
+| [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 58,869 | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
+| [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) | 2,773 | CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南 |
+| [ckissi/Learn-by-projects](https://github.com/ckissi/Learn-by-projects) | 1,579 | Programming tutorials for C, C#, Python, Javascript, Typescript, React, Go, HTML |
+
+## 📚 Open Source / Learning
 
 | Repo | Stars | Description |
 |------|-------|-------------|
-| [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) | 19k | macOS 音频环回驱动，零延迟音频路由 |
-| [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26) | 4k | iOS/iPadOS 16.0-26.1 终极自定义工具 |
-## 📖 Learning / Awesome Lists
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 486,792 | 😎 Awesome lists about all kinds of interesting topics |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 75,961 | The open-source CapCut alternative |
+| [frappe/erpnext](https://github.com/frappe/erpnext) | 37,052 | Free and Open Source Enterprise Resource Planning (ERP) |
+| [cporter202/automate-faceless-content](https://github.com/cporter202/automate-faceless-content) | 2,777 | Learn how to automate faceless short-form + long-form video content and dominate |
+
+## 📦 Other
 
 | Repo | Stars | Description |
 |------|-------|-------------|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 520k | Master programming by recreating technologies |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 479k | Awesome lists about all kinds of topics |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 450k | Open-source codebase and curriculum |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 390k | Freely available programming books |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 164k | ChatGPT Prompts collection |
-| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196k | JS algorithms and data structures |
-| [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 183k | Python 100天从新手到大师 |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 115k | 100+ AI Agent & RAG apps |
-| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 35k | 人人都能用英语 |
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77k | 本地运行 LLM，开源可商用 |
-| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 33k | AI 驱动的 draw.io 图表应用 |
-| [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 16k | 程序员 AI 资源大全 |
-| [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 14k | Vibe Coding 从入门到精通 |
-| [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 21k | Vibe Coding 中文教程 |
-| [ckissi/Learn-by-projects](https://github.com/ckissi/Learn-by-projects) | 1k | Project-driven programming tutorials |
-| [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | 2k | Codex 橙皮书 |
-| [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) | 2k | Codex 实践指南 |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 182k | CLAUDE.md from Andrej Karpathy |
-| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | 9k | Public APIs for developers |
-## 🌐 Web Frameworks
+| [react/react](https://github.com/react/react) | 246,587 | The library for web and native user interfaces. |
+| [vuejs/vue](https://github.com/vuejs/vue) | 210,116 | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core |
+| [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 184,272 | Python - 100天从新手到大师 |
+| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 35,450 | 人人都能用英语 |
+| [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 22,470 | No description |
+| [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) | 22,026 | 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】 |
+| [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) | 19,404 | BlackHole is a modern macOS audio loopback driver that allows applications to pa |
+| [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 16,237 | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 |
+| [foru17/neko-master](https://github.com/foru17/neko-master) | 2,811 | A modern and elegant dashboard for network traffic visualization and analysis. |
 
-| Repo | Stars | Description |
-|------|-------|-------------|
-| [vuejs/vue](https://github.com/vuejs/vue) | 209k | Vue 2 framework |
-| [react/react](https://github.com/react/react) | 246k | React - web and native UI |
-## 🏢 Enterprise / Business
-
-| Repo | Stars | Description |
-|------|-------|-------------|
-| [frappe/erpnext](https://github.com/frappe/erpnext) | 36k | Free and open source ERP |
-| [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 16k | 《一人企业方法论》第二版 |
-## 🎧 AI Audio / Speech
-
-| Repo | Stars | Description |
-|------|-------|-------------|
-| [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) | 3k | Open-source speech and sound generation |
-| [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) | 7k | Language models on your phone |
-## 🔧 Misc / Other
-
-| Repo | Stars | Description |
-|------|-------|-------------|
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 180k | Free domain for everyone |
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 74k | 中国教材 PDF 合集 |
-| [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) | 21k | 10000+ Telegram 群合集 |
-| [foru17/neko-master](https://github.com/foru17/neko-master) | 1k | 网络流量可视化仪表盘 |
-| [appsail/Gemini-in-Chrome](https://github.com/appsail/Gemini-in-Chrome) | 429 | Chrome Gemini 集成 |
-| [wjszxli/AiAllSupport](https://github.com/wjszxli/AiAllSupport) | 213 | 浏览器 AI 全支持扩展 |
----
-## 📊 Statistics
-- **Total starred repos:** 78
-- **Most starred:** codecrafters-io/build-your-own-x (520k)
-- **Categories:** 11
-- **Largest category:** AI Agent (15 repos)
-## License
-This is a personal curated list. Each repository has its own license — please check individual repos.
