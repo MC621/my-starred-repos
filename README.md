@@ -81,6 +81,7 @@
 
 | 仓库 | ⭐ | 语言 | 说明 |
 |------|-----|------|------|
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 191.6k | - | DigitalPlat FreeDomain: Free Domain For Everyone |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 88.9k | Rust | π RuView turns commodity WiFi signals into real-time spatial |
 | [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | 60.8k | Kotlin | A V2Ray client for Android, support Xray core and v2fly core |
 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 44.4k | Go | Xray panel supporting multi-protocol multi-user expire day & |
@@ -119,7 +120,6 @@
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 493.5k | - | 😎 Awesome lists about all kinds of interesting topics |
 | [react/react](https://github.com/react/react) | 247.1k | JavaScript | The library for web and native user interfaces. |
 | [vuejs/vue](https://github.com/vuejs/vue) | 210.2k | TypeScript | This is the repo for Vue 2. For Vue 3, go to https://github. |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 191.6k | - | DigitalPlat FreeDomain: Free Domain For Everyone |
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 185.0k | Jupyter Notebook | Python - 100天从新手到大师 |
 | [byoungd/up](https://github.com/byoungd/up) | 57.8k | JavaScript | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离 |
 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 55.0k | PowerShell | A simple, lightweight PowerShell script that allows you to r |
