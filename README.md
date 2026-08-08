@@ -25,7 +25,6 @@
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 200.5k | - | A single CLAUDE.md file to improve Claude Code behavior, der |
 | [f/prompts.chat](https://github.com/f/prompts.chat) | 166.9k | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect |
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 131.4k | Python | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open So |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 88.9k | Rust | π RuView turns commodity WiFi signals into real-time spatial |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 79.5k | Python | An open-source long-horizon SuperAgent harness that research |
 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77.4k | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and avail |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 68.4k | Python | Give your AI agent eyes to see the entire internet. Read & s |
@@ -82,6 +81,7 @@
 
 | 仓库 | ⭐ | 语言 | 说明 |
 |------|-----|------|------|
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 88.9k | Rust | π RuView turns commodity WiFi signals into real-time spatial |
 | [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | 60.8k | Kotlin | A V2Ray client for Android, support Xray core and v2fly core |
 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 44.4k | Go | Xray panel supporting multi-protocol multi-user expire day & |
 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 36.3k | Go | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享， |
